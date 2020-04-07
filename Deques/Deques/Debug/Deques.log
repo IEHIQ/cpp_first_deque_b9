@@ -1,0 +1,3 @@
+﻿  Deques.cpp
+c:\users\alexa\source\repos\c++\deques\deques\deques.cpp(30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Deques.vcxproj -> C:\Users\alexa\source\repos\C++\Deques\Debug\Deques.exe
